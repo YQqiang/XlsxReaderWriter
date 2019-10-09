@@ -29,7 +29,7 @@
 //  3. This notice may not be removed or altered from any source distribution.
 //
 
-#import "XMLDictionary.h"
+#import "XMLDictionary/XMLDictionary.h"
 
 
 #pragma GCC diagnostic ignored "-Wobjc-missing-property-synthesis"
